@@ -1,16 +1,16 @@
 ## Screenshots
-![Screenshot da tela inicial](screenshot.png) 
+![Screenshot of the home screen](screenshot.png) 
 
 <hr>
-<p align="center"> uma página para comprar ingressos e consultar quantos ainda tem de cada pista.</p>
+<p align="center"> a page to buy tickets and check how many are still available for each track.</p>
 
 ## Interface
-* No `menu`, escollhemos um dos tres tipos de ingresso.
-* Ao clicarmos na caixa de `Qtde`, podemos escolher e informar qual a quantidade queremos de cada item.
-* Ao clicarmos na caixa de `Comprar`, aparecerá uma mensagem dizendo que a compra foi realizada com sucesso ou não, dependendo da quantidade que tem disponivel.
-* É possivel verificar quantos ingressos ainda tem disponivel na lista abaixo do botao principal.
+* In the `menu`, we choose one of the three types of tickets.
+* When we click on the box `Qtde`, we can choose and specify the quantity we want for each item.
+* When we click on the box `Comprar`, a message will appear stating whether the purchase was successful or not, depending on the quantity available.
+* You can check how many tickets are still available in the list below the main button.
   
-## Tecnologias
+## Technologies
 * HTML
 * CSS
 * JavaScript
